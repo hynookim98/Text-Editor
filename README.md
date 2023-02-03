@@ -1,4 +1,4 @@
-#Text Editor
+# Text Editor
 
 ## Description
 Hello my name is Matthew Kim and I am a beginner programmer studying at the UCI coding Bootcamp. This text editor was built to showcase my knowledge of PWAs and making them installable. 
